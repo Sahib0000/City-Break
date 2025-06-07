@@ -16,7 +16,7 @@ Follow these steps to get the website running on your local machine:
 
 ```bash
 git clone <repository-url>
-cd citybreak-client
+cd school-project
 ```
 
 ### 2. Install dependencies
