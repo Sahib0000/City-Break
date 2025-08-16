@@ -1,4 +1,4 @@
-# CityBreak Client
+# CityBreak Client (`School project`)
 
 A React-based web application for exploring city break activities, pub crawls, and hotels.
 
